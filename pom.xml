@@ -10,13 +10,13 @@
 
   <name>Selenium4-test</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/amgqomm/Selenium-Jenkins</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <serenity.version>3.2.5</serenity.version>
-    <serenity.maven.version>3.2.0</serenity.maven.version>
-    <serenity.cucumber.version>3.2.0</serenity.cucumber.version>
+    <serenity.version>4.1.3</serenity.version>
+    <serenity.maven.version>4.1.3</serenity.maven.version>
+    <serenity.cucumber.version>4.1.3</serenity.cucumber.version>
     <parallel.tests>4</parallel.tests>
     <encoding>UTF-8</encoding>
     <serenity.test.root></serenity.test.root>
